@@ -1,0 +1,13 @@
+aaron   70
+julia   80
+albert  90
+james   60
+kate    60
+john    80
+oliver  75
+tom     54
+victor  30
+walter  60
+jane    100
+ahmet   90
+cem     100
